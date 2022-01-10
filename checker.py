@@ -1,3 +1,7 @@
+#!/usr/bin/python3
+
+#Author = Xnuvers007 / Luckysora007
+
 import requests
 
 test = []
