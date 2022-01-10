@@ -23,4 +23,4 @@ pip3 install -r requirements.txt
 
 nano account.txt (taro paling bawah username/id/nomor lalu password contoh = mark|zuckerberg , mark adalah username/id/nomor dan zuckerberg adalah password)
 
-checker.py
+python3 checker.py
