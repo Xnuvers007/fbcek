@@ -24,3 +24,6 @@ pip3 install -r requirements.txt
 nano account.txt (taro paling bawah username/id/nomor lalu password contoh = mark|zuckerberg , mark adalah username/id/nomor dan zuckerberg adalah password)
 
 python3 checker.py
+
+
+note / catatan = facebook dapat mendeteksi spam login dari account yang di cek (facebook can detect login spam from checked account)
