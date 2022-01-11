@@ -3,7 +3,7 @@
 [![forks - fbcek](https://img.shields.io/github/forks/Xnuvers007/fbcek?style=social)](https://github.com/Xnuvers007/fbcek)
 [![GitHub tag](https://img.shields.io/github/tag/Xnuvers007/fbcek?include_prereleases=&sort=semver&color=blue)](https://github.com/Xnuvers007/fbcek/releases/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
-[![top lang](https://img.shields.io/github/languages/top/Xnuvers007/fbcek?logo=python&logoColor=red)
+![top lang](https://img.shields.io/github/languages/top/Xnuvers007/fbcek?logo=python&logoColor=red)
 ![code size](https://img.shields.io/github/repo-size/Xnuvers007/fbcek?logo=github&logoColor=blue)
 ![last commit](https://img.shields.io/github/last-commit/Xnuvers007/fbcek)
 ![release date](https://img.shields.io/github/release-date/Xnuvers007/fbcek?color=blue)
