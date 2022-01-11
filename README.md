@@ -26,4 +26,4 @@ nano account.txt (taro paling bawah username/id/nomor lalu password contoh = mar
 python3 checker.py
 
 
-note / catatan = facebook dapat mendeteksi spam login dari account yang di cek (facebook can detect login spam from checked account)
+<center> <b> > note / catatan = facebook dapat mendeteksi spam login dari account yang di cek (facebook can detect login spam from checked account) </b> </center>
