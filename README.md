@@ -28,6 +28,7 @@ python3 checker.py
 
 <center> <b> > note / catatan = facebook dapat mendeteksi spam login dari account yang di cek (facebook can detect login spam from checked account) </b> </center>
 
+# Hastags
 
   > #facebook account checker
   
