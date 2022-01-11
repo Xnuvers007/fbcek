@@ -30,10 +30,16 @@ python3 checker.py
 
 [
   > #facebook account checker
+  
   > fb
+ 
   > account
+ 
   > checker
+ 
   > facebook
+ 
   > account checker
+
   > indonesia
 ]
